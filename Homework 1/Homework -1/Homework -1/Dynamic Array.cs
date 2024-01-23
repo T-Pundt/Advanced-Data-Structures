@@ -3,6 +3,17 @@ using Microsoft.VisualBasic.FileIO;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
+/* 
+    This program was made entirely with chat gpt.
+    The prompts used to make this program were:
+        -What is a dynamic array in c#
+        -How can you read multiple rows and collumns of data into a dynamic array in c# 
+        -As a csv file
+        -How could I sort the data alphabetically based on a specified data
+        -How could I easily find the length of the dynamic array
+*/
+
+
 class Program
 {
     static void Main()
