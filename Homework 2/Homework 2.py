@@ -148,6 +148,8 @@ class HashTable:
         for bucket in self._array:
             if bucket is not None:
                 yield bucket
+            else:
+                yield '---'
 
 
 if __name__ == "__main__":
@@ -167,37 +169,32 @@ if __name__ == "__main__":
     # converts the csv data stored in dataframe to a list of lists (Dynamic Array)
     contacts = dataframe.values.tolist()
 
-    print(contacts[0][8])
+    i = 0
+    while i < len(contacts):
+        hash_table[contacts[i][8]] = contacts[i]
+        i += 1
 
-    hash_table[contacts[0][8]] = contacts[0]
-    hash_table[contacts[1][8]] = contacts[1]
-    # Add key-value pairs
-    hash_table['apple'] = 1
-    hash_table['banana'] = 2
-    hash_table['little'] = 1
-    # hash_table['a'] = 4
-    # hash_table['b'] = 5
-    # hash_table['c'] = 6
-    # hash_table['d'] = 7
-    # hash_table['e'] = 8
-    # hash_table['f'] = 9
-    # hash_table['g'] = 10
-    # hash_table['h'] = 11
-    #
-    # Retrieve values
-    print(hash_table['apple'])  # Output: 1
-
-    # Check if a key exists
-    print('banana' in hash_table)  # Output: True
-
-    # # Delete a key-value pair
-    del hash_table['banana']
-    del hash_table['apple']
-    # print(hash_table)  # Output: {'apple': 1, 'cherry': 3}
-
-    # # Get the number of key-value pairs
-    print(len(hash_table))  # Output: 2
-    #
-    # # Iterate over key-value pairs
+    # Iterate over key-value pairs
     for item in hash_table.items():
         print(item)
+
+    # USE EXAMPLES
+
+    # Add key-value pairs
+    # hash_table['key'] = value
+
+    # Retrieve values
+    # print(hash_table[key])
+
+    # Delete a key-value pair
+    # del hash_table[key]
+
+    # Check if a key exists
+    #  print(key in hash_table)
+
+    # Get the number of key-value pairs
+    # print(len(hash_table))
+
+    # # Iterate over key-value pairs
+    # for item in hash_table.items():
+    #    print(item)
