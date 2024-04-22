@@ -1,0 +1,15 @@
+D:\DSU classes\Spring 2024\Advanced Data Structures\Advanced-Data-Structures\Homework 1\Homework -1\Homework -1\bin\Debug\net8.0\Homework -1.exe
+D:\DSU classes\Spring 2024\Advanced Data Structures\Advanced-Data-Structures\Homework 1\Homework -1\Homework -1\bin\Debug\net8.0\Homework -1.deps.json
+D:\DSU classes\Spring 2024\Advanced Data Structures\Advanced-Data-Structures\Homework 1\Homework -1\Homework -1\bin\Debug\net8.0\Homework -1.runtimeconfig.json
+D:\DSU classes\Spring 2024\Advanced Data Structures\Advanced-Data-Structures\Homework 1\Homework -1\Homework -1\bin\Debug\net8.0\Homework -1.dll
+D:\DSU classes\Spring 2024\Advanced Data Structures\Advanced-Data-Structures\Homework 1\Homework -1\Homework -1\bin\Debug\net8.0\Homework -1.pdb
+D:\DSU classes\Spring 2024\Advanced Data Structures\Advanced-Data-Structures\Homework 1\Homework -1\Homework -1\obj\Debug\net8.0\Homework -1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSU classes\Spring 2024\Advanced Data Structures\Advanced-Data-Structures\Homework 1\Homework -1\Homework -1\obj\Debug\net8.0\Homework -1.AssemblyInfoInputs.cache
+D:\DSU classes\Spring 2024\Advanced Data Structures\Advanced-Data-Structures\Homework 1\Homework -1\Homework -1\obj\Debug\net8.0\Homework -1.AssemblyInfo.cs
+D:\DSU classes\Spring 2024\Advanced Data Structures\Advanced-Data-Structures\Homework 1\Homework -1\Homework -1\obj\Debug\net8.0\Homework -1.csproj.CoreCompileInputs.cache
+D:\DSU classes\Spring 2024\Advanced Data Structures\Advanced-Data-Structures\Homework 1\Homework -1\Homework -1\obj\Debug\net8.0\Homework -1.sourcelink.json
+D:\DSU classes\Spring 2024\Advanced Data Structures\Advanced-Data-Structures\Homework 1\Homework -1\Homework -1\obj\Debug\net8.0\Homework -1.dll
+D:\DSU classes\Spring 2024\Advanced Data Structures\Advanced-Data-Structures\Homework 1\Homework -1\Homework -1\obj\Debug\net8.0\refint\Homework -1.dll
+D:\DSU classes\Spring 2024\Advanced Data Structures\Advanced-Data-Structures\Homework 1\Homework -1\Homework -1\obj\Debug\net8.0\Homework -1.pdb
+D:\DSU classes\Spring 2024\Advanced Data Structures\Advanced-Data-Structures\Homework 1\Homework -1\Homework -1\obj\Debug\net8.0\Homework -1.genruntimeconfig.cache
+D:\DSU classes\Spring 2024\Advanced Data Structures\Advanced-Data-Structures\Homework 1\Homework -1\Homework -1\obj\Debug\net8.0\ref\Homework -1.dll
